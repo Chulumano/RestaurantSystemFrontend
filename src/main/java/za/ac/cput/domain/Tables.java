@@ -8,7 +8,7 @@ import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 import java.util.Locale;
 /*
- *  Entity for Tables
+ *  ADP Entity for Tables
  *  Author: Chulumanco Buhle Nkwindana (219390983)
  * */
 @Entity

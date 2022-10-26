@@ -1,7 +1,7 @@
 package za.ac.cput.gui.Chulu.Payment;
 
 /*
- *  Entity for Payments
+ * ADP  Entity for Payments
  *  Author: Chulumanco Buhle Nkwindana (219390983)
  * */
 
@@ -129,7 +129,7 @@ public class UpdatePaymentGUI implements ActionListener {
         //Heading
         lblHeading.setFont(headingFont);
 
-        //Adding panels to Customer Frame:
+        //Adding panels to Payment Frame:
         UpdateItemFrame.add(UpdateItemPanelNorth, BorderLayout.NORTH);
         UpdateItemFrame.add(UpdateItemPanelSouth, BorderLayout.SOUTH);
         UpdateItemFrame.add(UpdateItemPanelEast, BorderLayout.EAST);

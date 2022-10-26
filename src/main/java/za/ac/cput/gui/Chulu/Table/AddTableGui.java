@@ -1,7 +1,7 @@
 package za.ac.cput.gui.Chulu.Table;
 
 /*
- *  Entity for Tables
+ * ADP Entity for Tables
  *  Author: Chulumanco Buhle Nkwindana (219390983)
  * */
 

@@ -25,7 +25,7 @@ public class RestaurantSystemGUI implements ActionListener {
 
     public RestaurantSystemGUI () {
 
-        //Font
+
         headingFont = new Font("Arial", Font.BOLD, 18);
 
         mainframe = new JFrame("Restaurant System");
@@ -40,7 +40,7 @@ public class RestaurantSystemGUI implements ActionListener {
         panelWest.setBackground(panAllColor);
         panelCenter.setBackground(panAllColor);
 
-        //Fillers
+
         Filler1 = new JLabel("======");
         Filler2 = new JLabel("======");
         Filler3 = new JLabel("======");

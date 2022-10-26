@@ -1,7 +1,7 @@
 package za.ac.cput.gui.Chulu.Payment;
 
 /*
- *  Entity for Payments
+ *  ADP Entity for Payments
  *  Author: Chulumanco Buhle Nkwindana (219390983)
  * */
 
